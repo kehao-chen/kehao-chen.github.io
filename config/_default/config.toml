@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://happyhacking.ninja/"
+baseURL = "https://www.happyhacking.ninja/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
